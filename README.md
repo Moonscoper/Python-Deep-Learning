@@ -1,1 +1,1 @@
-# Python-Deep-Learning\nThis repository contains Python not
+# Python-Deep-Learning\nThis repository contains Python notebooks which guide you through different concepts and techniques of Deep Learning. Thoroughly explained and easily
