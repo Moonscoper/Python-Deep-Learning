@@ -1,1 +1,1 @@
-# Python-Deep-Learning\nThis repository contains Python notebooks which guide you through different concepts and techniques of Deep Learning. Thoroughly explained and easily
+# Python-Deep-Learning\nThis repository contains Python notebooks which guide you through different concepts and techniques of Deep Learning. Thoroughly explained and easily understandable for beginners as well as professionals. Brought to you by Moonscoper. Happy learning!
